@@ -1,5 +1,6 @@
-import '../css/app.css';
 import './bootstrap';
+import './validation';
+import '../css/media/extra-mediaQuery.css';
 $(document).ready(function() {
     let navigation = $(".vertical-nav"),
         estade = $(".remove .container-remove lottie-player"),
