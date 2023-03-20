@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- icon -->
+    <!-- icones -->
     <link rel="icon" href="{{ asset('img/icons/activity.svg')}}">
     <!-- fontawesome -->
     <script src="https://kit.fontawesome.com/3ff4519403.js" crossorigin="anonymous"></script>
